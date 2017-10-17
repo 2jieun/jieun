@@ -1,0 +1,113 @@
+.flex-container-1{
+  display: flex;
+  width: 120px;
+  height: 30px
+}
+
+.flex-1 {
+
+    background-color: blue;
+    width: 60px;
+    height: 30px;
+
+}
+
+
+.flex-2 {
+    background-color: orange;
+    width: 60px;
+    height: 30px;
+}
+
+.flex-container-2{
+display: flex;
+  width: 120px;
+  height: 90px
+}
+
+.flex-container-2-1{
+
+  width: 30px;
+  height: 90px
+}
+
+.flex-a {
+    background-color: green;
+    width: 30px;
+    height: 90px;
+
+}
+.flex-container-2-2{
+
+  width: 90px;
+  height: 90px
+}
+.flex-container-2-2-1{
+
+  width: 90px;
+  height: 60px
+}
+
+.flex-b {
+    background-color: pink;
+    width: 90px;
+    height: 30px;
+
+}
+
+.flex-c {
+    background-color: magenta;
+    width: 90px;
+    height: 30px;
+
+}
+
+.flex-container-2-2-2{
+  display: flex;
+  width: 90px;
+  height: 30px
+}
+.flex-d {
+    background-color: skyblue;
+    width: 30px;
+    height: 30px;
+
+}
+
+.flex-e {
+    background-color: red;
+    width: 30px;
+    height: 30px;
+
+}
+.flex-f {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+
+}
+
+.flex-container-3{
+display: flex;
+  width: 120px;
+  height: 30px
+}
+
+.flex-a1{
+  width: 40px;
+  height: 30px;
+  background-color: yellowgreen
+
+}
+.flex-a2{
+  width: 40px;
+  height: 30px;
+  background-color: hotpink
+
+}
+.flex-a3{
+  width: 40px;
+  height: 30px;
+  background-color: coral
+
+}
